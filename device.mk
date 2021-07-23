@@ -12,7 +12,7 @@ $(call inherit-product, device/xiaomi/sm6150-common/sm6150.mk)
 
 # Audio
 PRODUCT_PACKAGES += \
-    audio.primary.sm6150 \
+    audio.primary.sm6150:32 \
     audio_amplifier.sm6150
 
 PRODUCT_PACKAGES += \
@@ -99,7 +99,7 @@ PRODUCT_COPY_FILES += \
 
 # Sensors
 PRODUCT_PACKAGES += \
-    android.hardware.sensors@1.0-impl \
+    android.hardware.sensors@1.0-impl:64 \
     android.hardware.sensors@1.0-service
 
 # Soong namespaces
