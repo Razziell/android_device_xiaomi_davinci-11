@@ -22,5 +22,6 @@ set -e
 export DEVICE=davinci
 export DEVICE_COMMON=sm6150-common
 export VENDOR=xiaomi
+export DEXPREOPTAPPS=true
 
 "./../../${VENDOR}/${DEVICE_COMMON}/extract-files.sh" "$@"
