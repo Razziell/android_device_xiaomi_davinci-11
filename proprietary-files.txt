@@ -37,7 +37,10 @@ vendor/etc/camera/fonts.xml
 vendor/etc/camera/golden_rear_dc_cal_wu.bin
 vendor/etc/camera/male_bg.png
 vendor/etc/camera/male_icon.png
+vendor/etc/camera/MILanPro_Regular.ttf
 vendor/etc/camera/Miui-Light.ttf
+vendor/etc/camera/MIUI_Time.ttf
+vendor/etc/camera/Roboto_Medium.ttf
 vendor/etc/camera/Roboto-Thin.ttf
 vendor/etc/camera/sceneDetection.xml
 vendor/etc/camera/score_bg.png
@@ -201,6 +204,7 @@ vendor/lib64/libVDClearShot.so
 vendor/lib64/libVDSuperPhotoAPI.so
 
 # Camera Vidhance
+vendor/etc/camera/vidhance_calibration
 vendor/lib64/camera/components/com.vidhance.node.eis.so
 vendor/lib64/camera/components/com.vidhance.stats.aec_dmbr.so
 vendor/lib64/libvidhance.so
@@ -210,6 +214,8 @@ vendor/etc/camera/lf_facerank_model.bin
 vendor/etc/camera/mibokeh_712_opencl.bin
 vendor/etc/camera/mibokeh_712_parameter.bin
 vendor/etc/camera/sdm_ys_32p_120_21_5_perturb50.bin
+vendor/etc/camera/model_back.dlc
+vendor/etc/camera/model_front.dlc
 vendor/lib64/camera/components/com.mi.node.aiasd.so
 vendor/lib64/camera/components/com.qti.node.watermark.so
 vendor/lib64/camera/components/com.qti.node.xiaomigenderage.so
