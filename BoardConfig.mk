@@ -9,6 +9,8 @@ include device/xiaomi/sm6150-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/xiaomi/davinci
 
+BUILD_BROKEN_DUP_RULES := true
+
 # Audio
 AUDIO_FEATURE_ENABLED_EXT_AMPLIFIER := true
 AUDIO_FEATURE_ENABLED_GEF_SUPPORT := true
