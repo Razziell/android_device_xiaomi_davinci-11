@@ -39,7 +39,6 @@ vendor/etc/camera/male_bg.png
 vendor/etc/camera/male_icon.png
 vendor/etc/camera/MILanPro_Regular.ttf
 vendor/etc/camera/Miui-Light.ttf
-vendor/etc/camera/MIUI_Time.ttf
 vendor/etc/camera/Roboto_Medium.ttf
 vendor/etc/camera/Roboto-Thin.ttf
 vendor/etc/camera/sceneDetection.xml
@@ -198,14 +197,12 @@ vendor/lib64/libMegviiFacepp-0.5.2.so
 
 # Camera Provider
 lib/libcameraservice.so
-system_ext/lib/vendor.qti.hardware.camera.device@2.0.so
 system_ext/lib/vendor.qti.hardware.camera.device@3.5.so
 vendor/bin/hw/android.hardware.camera.provider@2.4-service_64
 vendor/etc/init/android.hardware.camera.provider@2.4-service_64.rc
 vendor/lib64/hw/android.hardware.camera.provider@2.4-impl.so
 vendor/lib64/android.hardware.camera.provider@2.4-external.so
 vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
-vendor/lib64/vendor.qti.hardware.camera.device@2.0.so
 vendor/lib64/vendor.qti.hardware.camera.device@3.5.so
 
 # Camera Visidon
@@ -226,8 +223,6 @@ vendor/etc/camera/lf_facerank_model.bin
 vendor/etc/camera/mibokeh_712_opencl.bin
 vendor/etc/camera/mibokeh_712_parameter.bin
 vendor/etc/camera/sdm_ys_32p_120_21_5_perturb50.bin
-vendor/etc/camera/model_back.dlc
-vendor/etc/camera/model_front.dlc
 vendor/lib64/camera/components/com.mi.node.aiasd.so
 vendor/lib64/camera/components/com.qti.node.watermark.so
 vendor/lib64/camera/components/com.qti.node.xiaomigenderage.so
@@ -240,7 +235,6 @@ vendor/lib64/libFaceGrade.so
 vendor/lib64/libft2vendor.so
 vendor/lib64/libmialgo_sd.so
 vendor/lib64/libmibokeh_712.so
-vendor/lib64/libSNPE.so
 vendor/lib64/libXMFD_AgeGender.so
 
 # Camera motor
