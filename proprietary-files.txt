@@ -123,7 +123,6 @@ vendor/lib64/libmialgo_fs.so
 vendor/lib64/libmialgo_rfs.so
 vendor/lib64/libmialgo_utils.so
 vendor/lib64/libmialgoengine.so
-vendor/lib64/libnpu.so
 vendor/lib64/libremosaic_daemon.so
 vendor/lib64/libremosaiclib.so
 vendor/lib64/libswregistrationalgo.so
