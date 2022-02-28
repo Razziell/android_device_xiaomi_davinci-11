@@ -325,5 +325,5 @@ vendor/etc/thermald-devices.conf
 vendor/firmware/goodix_gt9886_limit_f10_first.tporder
 vendor/firmware/goodix_gt9886_limit_f10_second.tporder
 
-# WLAN
--vendor/bin/cnss-daemon
+# WLAN - from sweet V13.0.8.0.SKFEUXM
+-vendor/bin/cnss-daemon|a9766c890f7a87dfe11c1db676378b96e765b225
