@@ -8,20 +8,9 @@ vendor/etc/acdbdata/Forte/Forte_Handset_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb
-vendor/etc/acdbdata/Forte/Forte_workspaceFile.qwsp
--vendor/lib/libacdb-fts.so
--vendor/lib/libacdbloader.so
--vendor/lib/libacdbrtac.so
--vendor/lib/libadiertac.so
--vendor/lib/libaudcal.so
 
 # Audio firmware
 vendor/firmware/tfa98xx.cnt
-
-# Audio libraries
--vendor/lib/btaudio_offload_if.so
--vendor/lib/libadm.so
--vendor/lib/libqtigef.so
 
 # Camera
 -vendor/bin/remosaic_daemon
