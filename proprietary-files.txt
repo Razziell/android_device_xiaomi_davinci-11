@@ -240,6 +240,10 @@ media/audio/ui/popup_yingyan_up.ogg
 -vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
 -vendor/lib64/vendor.qti.hardware.camera.device@3.5.so
 
+# Camera Provider - from sweet V13.0.4.0.SKFMIXM
+-system_ext/lib64/vendor.qti.hardware.camera.device@3.5.so;MODULE=vendor.qti.hardware.camera.device@3.5_system_ext|2f919e1e76d0ae149c9bda69431b57826896c559
+-lib64/libcameraservice.so;MODULE=libcameraservice_micam|920269e97e47db6938cd56c0afd8501332d7b161
+
 # Fingerprint
 -vendor/lib64/hw/fingerprint.goodix_fod.so:vendor/lib64/hw/fingerprint.goodix_fod.sm6150.so
 -vendor/lib64/libgf_hal.so
