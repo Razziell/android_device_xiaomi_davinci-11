@@ -1,8 +1,8 @@
-# ADSP Modules - from davinci MIUI V12.1.1.0.RFJEUXM
+# ADSP Modules - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/lib/rfsa/adsp/libSuperSensor_skel.so
 vendor/lib/rfsa/adsp/libVDHexagonSuperPhoto_skel.so
 
-# Audio ACDB - from davinci MIUI V12.1.1.0.RFJEUXM
+# Audio ACDB - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/etc/acdbdata/adsp_avs_config.acdb
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Codec_cal.acdb
@@ -13,15 +13,15 @@ vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb
 
-# Audio firmware - from davinci MIUI V12.1.1.0.RFJEUXM
+# Audio firmware - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/firmware/tfa98xx.cnt
 
-# Bluetooth - from davinci MIUI V12.1.1.0.RFJEUXM
+# Bluetooth - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc
 vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so
 
-# Camera - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/bin/remosaic_daemon
 vendor/etc/camera/camxoverridesettings.txt
 vendor/etc/camera/eisoverridesettings.txt
@@ -122,7 +122,7 @@ vendor/lib64/libremosaiclib.so
 vendor/lib64/libswregistrationalgo.so
 vendor/lib64/libtriplecam_optical_zoom_control.so
 
-# Camera Almalence - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera Almalence - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/etc/camera/almalence_sr_params_tele.config
 vendor/etc/camera/almalence_sr_params_wide.config
 vendor/lib64/camera/components/com.almalence.node.sr.so
@@ -134,7 +134,7 @@ vendor/lib64/libHalSuperSensorServer.so
 vendor/lib64/libSuperSensor.so
 vendor/lib64/libSuperSensorCPU.so
 
-# Camera Altek - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera Altek - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/etc/camera/CFR_para_T.bin
 vendor/etc/camera/CFR_para_UW.bin
 vendor/etc/camera/CFR_para_W.bin
@@ -146,7 +146,7 @@ vendor/etc/camera/LDC_table_src2.dat
 vendor/lib64/camera/components/com.altek.node.depurple.so
 vendor/lib64/camera/components/com.altek.node.distortioncorrection.so
 
-# Camera ArcSoft - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera ArcSoft - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/etc/camera/beauty_ui9_intelligent_params.config
 vendor/etc/camera/body_slim_ui9_params.config
 vendor/etc/camera/eyelineblush.cng
@@ -183,12 +183,12 @@ vendor/lib64/libarcsoft_supernight.so
 vendor/lib64/libmpbase.so
 vendor/lib64/libtriplecam_video_optical_zoom.so
 
-# Camera Megvii - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera Megvii - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/etc/camera/megviifacepp_0_5_2_model
 vendor/lib64/libmegface.so
 vendor/lib64/libMegviiFacepp-0.5.2.so
 
-# Camera Provider - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera Provider - from davinci MIUI V12.1.4.0.RFJMIXM
 lib/libcameraservice.so
 system_ext/lib/vendor.qti.hardware.camera.device@3.5.so
 vendor/bin/hw/android.hardware.camera.provider@2.4-service_64
@@ -198,20 +198,20 @@ vendor/lib64/android.hardware.camera.provider@2.4-external.so
 vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
 vendor/lib64/vendor.qti.hardware.camera.device@3.5.so
 
-# Camera Visidon - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera Visidon - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/lib64/camera/components/com.visidon.node.clearshot.so
 vendor/lib64/camera/components/com.visidon.node.sr.so
 vendor/lib64/camera/components/etc/visidon_clearshot_params.xml
 vendor/lib64/libVDClearShot.so
 vendor/lib64/libVDSuperPhotoAPI.so
 
-# Camera Vidhance - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera Vidhance - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/etc/camera/vidhance_calibration
 vendor/lib64/camera/components/com.vidhance.node.eis.so
 vendor/lib64/camera/components/com.vidhance.stats.aec_dmbr.so
 vendor/lib64/libvidhance.so
 
-# Camera Xiaomi - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera Xiaomi - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/etc/camera/lf_facerank_model.bin
 vendor/etc/camera/mibokeh_712_opencl.bin
 vendor/etc/camera/mibokeh_712_parameter.bin
@@ -230,7 +230,7 @@ vendor/lib64/libmialgo_sd.so
 vendor/lib64/libmibokeh_712.so
 vendor/lib64/libXMFD_AgeGender.so
 
-# Camera motor - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera motor - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/bin/hw/vendor.xiaomi.hardware.motor@1.0-service
 vendor/etc/step_motor/mi_camera_config.xml
 vendor/lib64/hw/vendor.xiaomi.hardware.motor@1.0-impl.so
@@ -239,7 +239,7 @@ vendor/lib64/libmivendor_module_hall.so
 vendor/lib64/libmivendor_module_motor.so
 vendor/lib64/mi.motor.daemon.so
 
-# Camera (popup sound effects) - from davinci MIUI V12.1.1.0.RFJEUXM
+# Camera (popup sound effects) - from davinci MIUI V12.1.4.0.RFJMIXM
 media/audio/ui/popup_cangmen_down.ogg
 media/audio/ui/popup_cangmen_up.ogg
 media/audio/ui/popup_chilun_down.ogg
@@ -253,11 +253,11 @@ media/audio/ui/popup_muqin_up.ogg
 media/audio/ui/popup_yingyan_down.ogg
 media/audio/ui/popup_yingyan_up.ogg
 
-# Fingerprint - from davinci MIUI V12.1.1.0.RFJEUXM
+# Fingerprint - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/lib64/hw/fingerprint.goodix_fod.so:vendor/lib64/hw/fingerprint.goodix_fod.sm6150.so
 vendor/lib64/libgf_hal.so
 
-# Graphics firmware - from davinci MIUI V12.1.1.0.RFJEUXM
+# Graphics firmware - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/firmware/a615_zap.b00
 vendor/firmware/a615_zap.b01
 vendor/firmware/a615_zap.b02
@@ -266,7 +266,7 @@ vendor/firmware/a615_zap.mdt
 vendor/firmware/a618_gmu.bin
 vendor/firmware/a630_sqe.fw
 
-# IPA firmware - from davinci MIUI V12.1.1.0.RFJEUXM
+# IPA firmware - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/firmware/ipa_fws.b00
 vendor/firmware/ipa_fws.b01
 vendor/firmware/ipa_fws.b02
@@ -275,10 +275,10 @@ vendor/firmware/ipa_fws.b04
 vendor/firmware/ipa_fws.elf
 vendor/firmware/ipa_fws.mdt
 
-# NFC - from davinci MIUI V12.1.1.0.RFJEUXM
+# NFC - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/lib/libsn100u_fw.so
 
-# Sensors - from davinci MIUI V12.1.1.0.RFJEUXM
+# Sensors - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/bin/sensors.qti
 vendor/etc/init/init.vendor.sensors.rc
 vendor/etc/init/vendor.sensors.qti.rc
@@ -290,7 +290,7 @@ vendor/lib64/libsnsdiaglog.so
 vendor/lib64/libssc.so
 vendor/lib64/sensors.ssc.so
 
-# Sensors config - from davinci MIUI V12.1.1.0.RFJEUXM
+# Sensors config - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/etc/sensors/config/adux1050_0.json
 vendor/etc/sensors/config/ak991x_dri_0.json
 vendor/etc/sensors/config/icm4x6xx_0.json
@@ -331,7 +331,7 @@ vendor/etc/sensors/config/tcs3701.json
 vendor/etc/sensors/hals.conf
 vendor/etc/sensors/sns_reg_config
 
-# Thermal - from davinci MIUI V12.1.1.0.RFJEUXM
+# Thermal - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/bin/mi_thermald
 vendor/bin/thermal-engine
 vendor/etc/init/init.mi_thermald.rc
@@ -347,9 +347,9 @@ vendor/etc/thermal-tgame.conf
 vendor/etc/thermald-devices.conf
 vendor/lib64/libthermalclient.so
 
-# Touchscreen firmware - from davinci MIUI V12.1.1.0.RFJEUXM
+# Touchscreen firmware - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/firmware/goodix_gt9886_limit_f10_first.tporder
 vendor/firmware/goodix_gt9886_limit_f10_second.tporder
 
-# WLAN - from davinci MIUI V12.1.1.0.RFJEUXM
+# WLAN - from davinci MIUI V12.1.4.0.RFJMIXM
 vendor/bin/cnss-daemon
