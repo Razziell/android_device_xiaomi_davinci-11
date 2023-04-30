@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+**
+** Copyright 2007 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="preferred_network_mode_choices">
+    <item msgid="5746729990546256950">"3G переважно"</item>
+    <item msgid="6443811977675152844">"2G тільки"</item>
+    <item msgid="8767554719068876877">"3G тільки"</item>
+    <item msgid="928773614806830223">"2G/3G (авторежим)"</item>
+    <item msgid="2247906254631766720">"2G/3G/4G(LTE)"</item>
+    <item msgid="2908834445708457736">"4G(LTE)"</item>
+    <item msgid="2947411877551747693">"4G(LTE)/3G"</item>
+  </string-array>
+</resources>
