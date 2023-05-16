@@ -16,11 +16,11 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="preferred_network_mode_wcdma_perf_summary">"Tercih edilen ağ modu: 3G tercih edilen"</string>
-    <string name="preferred_network_mode_gsm_only_summary">"Tercih edilen ağ modu: 2G yalnızca"</string>
-    <string name="preferred_network_mode_wcdma_only_summary">"Tercih edilen ağ modu: 3G yalnızca"</string>
-    <string name="preferred_network_mode_gsm_wcdma_summary">"Tercih edilen ağ modu: 2G/3G"</string>
-    <string name="preferred_network_mode_lte_summary">"Tercih edilen ağ modu: 4G(LTE)"</string>
-    <string name="preferred_network_mode_lte_gsm_wcdma_summary">"Tercih edilen ağ modu: 2G/3G/4G(LTE)"</string>
-    <string name="preferred_network_mode_lte_wcdma_summary">"Tercih edilen ağ modu: 4G(LTE)/3G"</string>
+    <string name="preferred_network_mode_wcdma_perf_summary">"Modo de rede preferencial: 3G preferencial"</string>
+    <string name="preferred_network_mode_gsm_only_summary">"Modo de rede preferencial: 2G somente"</string>
+    <string name="preferred_network_mode_wcdma_only_summary">"Modo de rede preferencial: 3G somente"</string>
+    <string name="preferred_network_mode_gsm_wcdma_summary">"Modo de rede preferencial: 2G/3G"</string>
+    <string name="preferred_network_mode_lte_summary">"Modo de rede preferencial: 4G(LTE)"</string>
+    <string name="preferred_network_mode_lte_gsm_wcdma_summary">"Modo de rede preferencial: 2G/3G/4G(LTE)"</string>
+    <string name="preferred_network_mode_lte_wcdma_summary">"Modo de rede preferencial: 4G(LTE)/3G"</string>
 </resources>

@@ -21,10 +21,10 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="preferred_network_mode_choices">
-    <item>"3G bevorzugt"</item>
-    <item>"2G nur"</item>
-    <item>"3G nur"</item>
-    <item>"2G/3G (automatisch)"</item>
+    <item>"3G preferencial"</item>
+    <item>"2G somente"</item>
+    <item>"3G somente"</item>
+    <item>"2G/3G (automático)"</item>
     <item>"2G/3G/4G(LTE)"</item>
     <item>"4G(LTE)"</item>
     <item>"4G(LTE)/3G"</item>

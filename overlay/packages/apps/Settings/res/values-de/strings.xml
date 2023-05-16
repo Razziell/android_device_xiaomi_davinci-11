@@ -16,11 +16,11 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="preferred_network_mode_wcdma_perf_summary" msgid="230527592752934655">"Bevorzugter Netzmodus: 3G bevorzugt"</string>
-    <string name="preferred_network_mode_gsm_only_summary" msgid="2936969642076535162">"Bevorzugter Netzmodus: 2G nur"</string>
-    <string name="preferred_network_mode_wcdma_only_summary" msgid="632816273979433076">"Bevorzugter Netzmodus: 3G nur"</string>
-    <string name="preferred_network_mode_gsm_wcdma_summary" msgid="6419309630040697488">"Bevorzugter Netzmodus: 2G/3G (automatisch)"</string>
-    <string name="preferred_network_mode_lte_summary" msgid="4236015557975544307">"Bevorzugter Netzmodus: 4G(LTE)"</string>
-    <string name="preferred_network_mode_lte_gsm_wcdma_summary" msgid="1377100995001285751">"Bevorzugter Netzmodus: 2G/3G/4G(LTE)"</string>
-    <string name="preferred_network_mode_lte_wcdma_summary" msgid="7326137039981934928">"Bevorzugter Netzmodus: 4G(LTE)/3G"</string>
+    <string name="preferred_network_mode_wcdma_perf_summary">"Bevorzugter Netzmodus: 3G bevorzugt"</string>
+    <string name="preferred_network_mode_gsm_only_summary">"Bevorzugter Netzmodus: 2G nur"</string>
+    <string name="preferred_network_mode_wcdma_only_summary">"Bevorzugter Netzmodus: 3G nur"</string>
+    <string name="preferred_network_mode_gsm_wcdma_summary">"Bevorzugter Netzmodus: 2G/3G (automatisch)"</string>
+    <string name="preferred_network_mode_lte_summary">"Bevorzugter Netzmodus: 4G(LTE)"</string>
+    <string name="preferred_network_mode_lte_gsm_wcdma_summary">"Bevorzugter Netzmodus: 2G/3G/4G(LTE)"</string>
+    <string name="preferred_network_mode_lte_wcdma_summary">"Bevorzugter Netzmodus: 4G(LTE)/3G"</string>
 </resources>
