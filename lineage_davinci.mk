@@ -30,7 +30,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="davinci-user 11 RKQ1.200826.002 V12.1.4.0.RFJMIXM release-keys" \
     TARGET_BUILD_FLAVOR=davinci-$(TARGET_BUILD_VARIANT) \
     PRODUCT_NAME="davinci"
-
-# Spoof fingerprint
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.build.spoof_fingerprint=google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
