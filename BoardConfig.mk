@@ -42,6 +42,8 @@ TARGET_RECOVERY_DEVICE_MODULES := libinit_davinci
 
 # Kernel
 TARGET_KERNEL_CONFIG := davinci_defconfig
+TARGET_KERNEL_BUILD_HOST := Nosgoth
+TARGET_KERNEL_BUILD_USER := "Razziell"
 
 # Partitions
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
