@@ -112,7 +112,6 @@ void vendor_load_properties() {
     }
 
     property_override("ro.boot.hardware.revision", hardware_revision.c_str());
-    property_override("ro.boot.verifiedbootstate", "green");
     property_override("ro.crypto.state", "encrypted");
     property_override("ro.com.google.clientidbase", "android-xiaomi");
     property_override("ro.com.google.clientidbase.ms", "android-xiaomi-rev1");
